@@ -1,5 +1,5 @@
 ### Hi there 👋
-Full-Stack Developer able to provide you virtually anything you need or require.
+Full-Stack Developer able to provide you virtually anything you need or require, from Source Code to Dedicated servers.
 <details>
   <summary>Let's collaborate 👏</summary>
   
