@@ -3,7 +3,7 @@ Full-Stack Developer able to provide you virtually anything you need or require,
 <details>
   <summary>Let's collaborate 👏</summary>
   
-  - **Message me on Discord or via email if you wish to work together on any project.**
+  - **Message me on Discord or via Email if you wish to work together on any project.**
     - ThijmenGThN#2684
     - ThijmenHeuvelink.GThN@pm.me
 </details>
@@ -28,7 +28,7 @@ Full-Stack Developer able to provide you virtually anything you need or require,
     - Contact me to estimate a price point regarding your query.
   <details>
     <summary>Order a Service now 🌿</summary>
-    Message me on Discord or via email if you wish to place an order.
+    Message me on Discord or via Email if you wish to place an order.
   
     Discord: ThijmenGThN#2684
     Email: ThijmenHeuvelink.GThN@pm.me
