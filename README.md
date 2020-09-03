@@ -11,11 +11,9 @@ Full-Stack Developer able to provide you virtually anything you need or require,
   <summary>View my Projects 🔭</summary>
   
   - **Client Projects**
-    - a
-    - b
+    - [EasyEco - NodeJS Discord Bot](https://github.com/ThijmenGThN/EasyEco)
   - **Personal Projects**
-    - a
-    - b
+    - [KatyushaBot - NodeJS Discord Bot](https://github.com/ThijmenGThN/KatyushaBot)
 </details>
 <details>
   <summary>📌</summary>
