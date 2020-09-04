@@ -16,7 +16,7 @@ Full-Stack Developer able to provide you virtually anything you need or require,
     - [KatyushaBot - NodeJS Discord Bot](https://github.com/ThijmenGThN/KatyushaBot)
 </details>
 <details>
-  <summary>View Open Source 🔎</summary>
+  <summary>Join my Open Source 🔎</summary>
   
   - **PCMT**
     - [PCMT - Personal Client Management Tool](https://github.com/ThijmenGThN/PCMT)
