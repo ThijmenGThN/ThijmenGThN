@@ -16,12 +16,17 @@ Full-Stack Developer able to provide you virtually anything you need or require,
     - [KatyushaBot - NodeJS Discord Bot](https://github.com/ThijmenGThN/KatyushaBot)
   - **Open Source**
     - [PCMT - Personal Client Management Tool](https://github.com/ThijmenGThN/PCMT)
+    - [GOS - Web Based Operating System](https://github.com/ThijmenGThN/GOS)
 </details>
 <details>
   <summary>Join my Open Source 🔎</summary>
   
   - **PCMT**
     - [PCMT - Personal Client Management Tool](https://github.com/ThijmenGThN/PCMT)
+    - [Resources](https://github.com/ThijmenGThN/PCMT/resources)
+  - **GOS**
+    - [GOS - Web Based Operating System](https://github.com/ThijmenGThN/GOS)
+    - [Resources](https://github.com/ThijmenGThN/GOS/resources)
 </details>
 <details>
   <summary>Request a Service 📌</summary>
