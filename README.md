@@ -23,10 +23,10 @@ Full-Stack Developer able to provide you virtually anything you need or require,
   
   - **PCMT**
     - [PCMT - Personal Client Management Tool](https://github.com/ThijmenGThN/PCMT)
-    - [View Resources](https://github.com/ThijmenGThN/PCMT/resources)
+    - [View Releases](https://github.com/ThijmenGThN/PCMT/releases)
   - **GOS**
     - [GOS - Web Based Operating System](https://github.com/ThijmenGThN/GOS)
-    - [View Resources](https://github.com/ThijmenGThN/GOS/resources)
+    - [View Releases](https://github.com/ThijmenGThN/GOS/releases)
 </details>
 <details>
   <summary>Request a Service 📌</summary>
