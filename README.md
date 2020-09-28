@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/Xt4TDXF.jpg" height="75" width="100%" />
+
 ### Hi there, my name is Thijmen 👋
 Full-Stack Developer able to provide you virtually anything you need or require, from Source Code to Dedicated Servers.
 <details>
@@ -73,5 +75,3 @@ Full-Stack Developer able to provide you virtually anything you need or require,
     - Ethereum Classic - **0xC72455992956B26824305afbfd844E710B052d58**
 
 </details>
-
-<img src="https://i.imgur.com/Xt4TDXF.jpg" height="50" width="300" />
