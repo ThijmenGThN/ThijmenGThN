@@ -50,17 +50,21 @@ Full-Stack Developer able to provide you virtually anything you need or require,
 <details>
   <summary>Crypto ( Donations / Orders ) 🍫</summary>
     - ![USDT](https://www.exodus.io/img/logos/USDT.svg) **Tether**
+
       - Tether USD (  )
 
     - ![DASH](https://www.exodus.io/img/logos/DASH.svg) **Dash**
+
       - Dash (  )
 
     - ![BTC](https://www.exodus.io/img/logos/BTC.svg) **Bitcoin**
+
       - Bitcoin ( therandomaddress )
       - Bitcoin Cash ( therandomaddress )
       - Bitcoin Gold ( therandomaddress )
 
     - ![ETH](https://www.exodus.io/img/logos/ETH.svg) **Ethereum**
+    
       - Ethereum (  )
       - Ethereum Classic (  )
 </details>
