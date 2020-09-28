@@ -52,25 +52,25 @@ Full-Stack Developer able to provide you virtually anything you need or require,
 
   - <img src="https://www.exodus.io/img/logos/USDT.svg" width="20" /> **Tether**
 
-    - Tether USD **|** therandomaddressishere
+    - Tether USD   [#]   therandomaddressishere
 
   - <img src="https://www.exodus.io/img/logos/DASH.svg" width="20" /> **Dash**
 
-    - Dash **|** therandomaddressishere
+    - Dash   [#]   therandomaddressishere
 
    - <img src="https://www.exodus.io/img/logos/BTC.svg" width="20" /> **Bitcoin**
 
-    - Bitcoin **|** therandomaddressishere
+    - Bitcoin   [#]   therandomaddressishere
 
-    - Bitcoin Cash **|** therandomaddressishere
+    - Bitcoin Cash   [#]   therandomaddressishere
 
-    - Bitcoin Gold **|** therandomaddressishere
+    - Bitcoin Gold   [#]   therandomaddressishere
 
   - <img src="https://www.exodus.io/img/logos/ETH.svg" width="20" /> **Ethereum**
 
-    - Ethereum **|** therandomaddressishere
+    - Ethereum   [#]   therandomaddressishere
 
-    - Ethereum Classic **|** therandomaddressishere
+    - Ethereum Classic   [#]   therandomaddressishere
 
 </details>
 
