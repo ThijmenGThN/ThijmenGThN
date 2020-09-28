@@ -50,7 +50,9 @@ Full-Stack Developer able to provide you virtually anything you need or require,
 <details>
   <summary>Crypto ( Donations / Orders ) 🍫</summary>
     - <img src="https://www.exodus.io/img/logos/BTC.svg" width="15"> therandomaddress
+
     - <img src="https://www.exodus.io/img/logos/ETH.svg" width="15"> someotherrandomadre
+    
     - <img src="https://www.exodus.io/img/logos/DASH.svg" width="15"> somerandomaddress
 </details>
 
