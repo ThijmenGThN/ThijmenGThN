@@ -49,20 +49,20 @@ Full-Stack Developer able to provide you virtually anything you need or require,
 </details>
 <details>
   <summary>Crypto ( Donations / Orders ) 🍫</summary>
-    <img src="https://www.exodus.io/img/logos/USDT.svg" width="20"> **Tether**
-    Tether USD (  )
+    - <img src="https://www.exodus.io/img/logos/USDT.svg" width="20"></img> **Tether**
+      - Tether USD (  )
 
-    <img src="https://www.exodus.io/img/logos/DASH.svg" width="20"> **Dash**
-    Dash (  )
+    - <img src="https://www.exodus.io/img/logos/DASH.svg" width="20"></img> **Dash**
+      - Dash (  )
 
-    <img src="https://www.exodus.io/img/logos/BTC.svg" width="20"> **Bitcoin**
-    Bitcoin ( therandomaddress )
-    Bitcoin Cash ( therandomaddress )
-    Bitcoin Gold ( therandomaddress )
+    - <img src="https://www.exodus.io/img/logos/BTC.svg" width="20"></img> **Bitcoin**
+      - Bitcoin ( therandomaddress )
+      - Bitcoin Cash ( therandomaddress )
+      - Bitcoin Gold ( therandomaddress )
 
-    <img src="https://www.exodus.io/img/logos/ETH.svg" width="20"> **Ethereum**
-    Ethereum (  )
-    Ethereum Classic (  )
+    - <img src="https://www.exodus.io/img/logos/ETH.svg" width="20"></img> **Ethereum**
+      - Ethereum (  )
+      - Ethereum Classic (  )
 </details>
 
 
