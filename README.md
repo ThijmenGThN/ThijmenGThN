@@ -52,25 +52,25 @@ Full-Stack Developer able to provide you virtually anything you need or require,
 
   - <img src="https://www.exodus.io/img/logos/USDT.svg" width="20" /> **Tether**
 
-    - Tether USD -] **0xDd8B9E8f0e0f1883FAA452E13877F8235daaB099**
+    - Tether USD - **0xDd8B9E8f0e0f1883FAA452E13877F8235daaB099**
 
   - <img src="https://www.exodus.io/img/logos/DASH.svg" width="20" /> **Dash**
 
-    - Dash -] **XiNkzXw3yZTT8GgR3hwuMC6ZjgfQjnXYZp**
+    - Dash - **XiNkzXw3yZTT8GgR3hwuMC6ZjgfQjnXYZp**
 
   - <img src="https://www.exodus.io/img/logos/BTC.svg" width="20" /> **Bitcoin**
 
-    - Bitcoin -] **bc1qskjw7fjyqyhqrmhymnhaplaw9feawa6xks7mdh**
+    - Bitcoin - **bc1qskjw7fjyqyhqrmhymnhaplaw9feawa6xks7mdh**
 
-    - Bitcoin Cash -] **qpj6mfh74syyzz0s0lvzw9d5ctj6cgpassd22zjs5k**
+    - Bitcoin Cash - **qpj6mfh74syyzz0s0lvzw9d5ctj6cgpassd22zjs5k**
 
-    - Bitcoin Gold -] **GN7YbAQzF4sotAniNReXG5BDXTHK9ChAW8**
+    - Bitcoin Gold - **GN7YbAQzF4sotAniNReXG5BDXTHK9ChAW8**
 
   - <img src="https://www.exodus.io/img/logos/ETH.svg" width="20" /> **Ethereum**
 
-    - Ethereum -] **0xDd8B9E8f0e0f1883FAA452E13877F8235daaB099**
+    - Ethereum - **0xDd8B9E8f0e0f1883FAA452E13877F8235daaB099**
 
-    - Ethereum Classic -] **0xC72455992956B26824305afbfd844E710B052d58**
+    - Ethereum Classic - **0xC72455992956B26824305afbfd844E710B052d58**
 
 </details>
 
