@@ -47,3 +47,15 @@ Full-Stack Developer able to provide you virtually anything you need or require,
     Email: ThijmenHeuvelink.GThN@pm.me
   </details>
 </details>
+<details>
+  <summary>Crypto ( Donations / Orders ) 🍫</summary>
+    <img src="https://www.exodus.io/img/logos/BTC.svg" width="30"> Bitcoin Address: **bc1qskjw7fjyqyhqrmhymnhaplaw9feawa6xks7mdh**
+
+    <img src="https://www.exodus.io/img/logos/ETH.svg" width="30"> Ethereum Address: **0xDd8B9E8f0e0f1883FAA452E13877F8235daaB099**
+
+    <img src="https://www.exodus.io/img/logos/DASH.svg" width="30"> Dash Address: **XiNkzXw3yZTT8GgR3hwuMC6ZjgfQjnXYZp**
+</details>
+
+
+
+
