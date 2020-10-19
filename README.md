@@ -5,7 +5,8 @@ Full-Stack Developer able to provide you virtually anything you need or require,
 <details>
   <summary>Let's collaborate 👏</summary>
   <img src="https://i.imgur.com/CHmIYa4.png" />
-  [Send me an email](mailto:thijmenheuvelink.gthn@protonmail.com")
+
+  [Send me an email]("mailto:thijmenheuvelink.gthn@protonmail.com")
 </details>
 <details>
   <summary>View my Projects 🔭</summary>
