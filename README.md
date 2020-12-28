@@ -10,7 +10,19 @@ I am a Full-Stack Developer able to provide you virtually anything from Front- t
   * [PCMT](https://github.com/ThijmenGThN/PCMT)
   * [KatyushaBot](https://github.com/ThijmenGThN/KatyushaBot)
 * Clients
-  * [EasyEco](https://github.com/ThijmenGThN/EasyEco)
+  * Barry
+    * [EasyEco](https://github.com/ThijmenGThN/EasyEco)
+  * Tryzon
+    * Match
+    * Map Markers
+  * Tyler
+    * SiteWall
+  * Naz
+    * CIS
+    * Tweeter
+    * TweeterBot2
+    * US.CRC
+    * US.MS
 
 ### Wish to collaborate with me? 👏
 - Discord @ ThijmenGThN#2684
