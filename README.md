@@ -23,7 +23,7 @@ I am a Full-Stack Developer able to provide you virtually anything from Front- t
     * [US.CRC](https://github.com/ThijmenGThN/US.CRC) (Private)
     * [US.FRS](https://github.com/ThijmenGThN/US.FRS) (Private)
     
-#### *Note, not all projects are listed here.
+### *Note, not all projects are listed here.
 
 ### Wish to collaborate with me? 👏
 - Discord @ ThijmenGThN#2684
