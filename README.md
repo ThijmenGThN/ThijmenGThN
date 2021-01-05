@@ -21,7 +21,7 @@ I am a Full-Stack Developer able to provide you virtually anything from Front- t
     * [Tweeter](https://github.com/ThijmenGThN/Tweeter) (Private)
     * [TweeterBot2](https://github.com/ThijmenGThN/TweeterBot2) (Private)
     * [US.CRC](https://github.com/ThijmenGThN/US.CRC) (Private)
-    * [US.MS](https://github.com/ThijmenGThN/US.MS) (Private)
+    * [US.FRS](https://github.com/ThijmenGThN/US.FRS) (Private)
 
 ### Wish to collaborate with me? 👏
 - Discord @ ThijmenGThN#2684
