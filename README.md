@@ -11,11 +11,6 @@ I am a Full-Stack Developer able to provide you virtually anything from Front- t
 * Clients (Private)
   * Barry
     * [EasyEco](https://github.com/ThijmenGThN/EasyEco)
-  * Tryzon
-    * Match
-    * Map Markers
-  * Tyler
-    * SiteWall
   * Naz
     * [CIS](https://github.com/ThijmenGThN/CIS)
     * [Tweeter](https://github.com/ThijmenGThN/Tweeter)
