@@ -3,26 +3,26 @@
 ## Hi there, my name is Thijmen. 👋
 I am a Full-Stack Developer able to provide you virtually anything from Front- to Backend.
 
-* Project
-  * [Tealo](https://github.com/ThijmenGThN/Tealo) (Public)
-  * [GOS](https://github.com/ThijmenGThN/GOS) (Public)
-  * [PCMT](https://github.com/ThijmenGThN/PCMT) (Public)
-  * [KatyushaBot](https://github.com/ThijmenGThN/KatyushaBot) (Public)
-* Clients
+* Projects (Public)
+  * [Tealo](https://github.com/ThijmenGThN/Tealo)
+  * [GOS](https://github.com/ThijmenGThN/GOS)
+  * [PCMT](https://github.com/ThijmenGThN/PCMT)
+  * [KatyushaBot](https://github.com/ThijmenGThN/KatyushaBot)
+* Clients (Private)
   * Barry
-    * [EasyEco](https://github.com/ThijmenGThN/EasyEco) (Private)
+    * [EasyEco](https://github.com/ThijmenGThN/EasyEco)
   * Tryzon
-    * Match (Private)
-    * Map Markers (Private)
+    * Match
+    * Map Markers
   * Tyler
-    * SiteWall (Private)
+    * SiteWall
   * Naz
-    * [CIS](https://github.com/ThijmenGThN/CIS) (Private)
-    * [Tweeter](https://github.com/ThijmenGThN/Tweeter) (Private)
-    * [TweeterBot2](https://github.com/ThijmenGThN/TweeterBot2) (Private)
-    * [US.CRC](https://github.com/ThijmenGThN/US.CRC) (Private)
-    * [US.FRS](https://github.com/ThijmenGThN/US.FRS) (Private)
-    * [US.FEC](https://github.com/ThijmenGThN/US.FEC) (Private)
+    * [CIS](https://github.com/ThijmenGThN/CIS)
+    * [Tweeter](https://github.com/ThijmenGThN/Tweeter)
+    * [TweeterBot2](https://github.com/ThijmenGThN/TweeterBot2)
+    * [US.CRC](https://github.com/ThijmenGThN/US.CRC)
+    * [US.FRS](https://github.com/ThijmenGThN/US.FRS)
+    * [US.FEC](https://github.com/ThijmenGThN/US.FEC)
     
 ###### *Note, not all projects are listed here.
 
