@@ -23,4 +23,4 @@ I am a Full-Stack Developer able to provide you virtually anything from Front- t
 
 ### Wish to collaborate with me? 👏
 - Discord @ ThijmenGThN#2684
-- Email @ ThijmenHeuvelink.GThN@PM.ME
+- Email @ ThijmenHeuvelink.GThN@pm.me
