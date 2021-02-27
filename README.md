@@ -6,6 +6,7 @@ Attaining Full-Stack Software since 2014.
 * Projects (Public)
   * [Tealo](https://github.com/ThijmenGThN/Tealo)
   * [GOS](https://github.com/ThijmenGThN/GOS)
+  * [Genis](https://github.com/ThijmenGThN/Genis)
   * [PCMT](https://github.com/ThijmenGThN/PCMT)
   * [KatyushaBot](https://github.com/ThijmenGThN/KatyushaBot)
 * Clients (Private)
