@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/Xt4TDXF.jpg" height="50" width="100%" />
 
-## How are you? My name is Thijmen, let's get started. 👋
+## I am Thijmen, everyone calls me TJ. Do you want to collaborate? 👋
 Attaining Full-Stack Software since 2014.
 
 * Projects (Public)
