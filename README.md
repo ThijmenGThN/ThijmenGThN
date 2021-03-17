@@ -1,7 +1,21 @@
 <img src="https://i.imgur.com/Xt4TDXF.jpg" height="50" width="100%" />
 
+
 ## Hello, I am Thijmen 👋
 Attaining Full-Stack Software since 2014.
+
+
+<br />
+<p align="center">
+  <a href="https://github.com/ThijmenGThN/Tealo">
+    <img src="https://github.com/ThijmenGThN/Tealo/blob/main/assets/logo.png" alt="Tealo" width="80" height="80">
+  </a>
+
+  <p align="center">
+    <a href="https://github.com/ThijmenGThN/Tealo/releases"><strong>Check out my latest project »</strong></a>
+  </p>
+</p>
+
 
 * Projects (Public)
   * [Tealo](https://github.com/ThijmenGThN/Tealo)
@@ -23,6 +37,7 @@ Attaining Full-Stack Software since 2014.
     * [PSE](https://github.com/ThijmenGThN/PSE)
     
 ###### *Note, not all projects are listed here.
+
 
 ### Wish to collaborate with me? 👏
 - Discord @ ThijmenGThN#2684
