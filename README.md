@@ -5,6 +5,9 @@
 Attaining Full-Stack Software since 2014.
 
 
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=ThijmenGThN&count_private=true&show_icons=true&theme=tokyonight)
+
+
 <br />
 <p align="center">
   <a href="https://github.com/ThijmenGThN/Tealo">
@@ -17,14 +20,30 @@ Attaining Full-Stack Software since 2014.
 </p>
 
 
-* Projects (Public)
+#### This is what I am working on,
+
+<details><summary>Highlighted</summary><p>
+
+  * [Tealo](https://github.com/ThijmenGThN/Tealo)
+  * [FactionBotPlus](https://github.com/PhoenixDigitalStudio/FactionBotPlus)
+  
+</p></details>
+
+
+<details><summary>Personal</summary><p>
+
   * [Tealo](https://github.com/ThijmenGThN/Tealo)
   * [ShareNet](https://github.com/ThijmenGThN/ShareNet)
   * [GOS](https://github.com/ThijmenGThN/GOS)
   * [Genis](https://github.com/ThijmenGThN/Genis)
   * [PCMT](https://github.com/ThijmenGThN/PCMT)
   * [KatyushaBot](https://github.com/ThijmenGThN/KatyushaBot)
-* Clients (Private)
+  
+</p></details>
+  
+
+<details><summary>Clients</summary><p>
+
   * Barry
     * [EasyEco](https://github.com/ThijmenGThN/EasyEco)
   * Naz
@@ -35,8 +54,16 @@ Attaining Full-Stack Software since 2014.
     * [US.FRS](https://github.com/ThijmenGThN/US.FRS)
     * [US.FEC](https://github.com/ThijmenGThN/US.FEC)
     * [PSE](https://github.com/ThijmenGThN/PSE)
+  * DayZ n' Chill
+    * [FactionBotPlus](https://github.com/PhoenixDigitalStudio/FactionBotPlus)
+  
+</p></details>
+
     
-###### *Note, not all projects are listed here.
+###### *Note, not all projects are listed here or are public.
+
+
+![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
 
 
 ### Wish to collaborate with me? 👏
