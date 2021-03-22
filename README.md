@@ -12,7 +12,7 @@ Attaining Full-Stack Software since 2014.
   </a>
 
   <p align="center">
-    <a href="https://github.com/ThijmenGThN/Tealo/releases"><strong>Check out my latest project »</strong></a>
+    <a href="https://github.com/ThijmenGThN/Tealo"><strong>Check out my latest project »</strong></a>
   </p>
 </p>
 
