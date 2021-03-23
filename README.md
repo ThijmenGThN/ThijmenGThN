@@ -1,11 +1,8 @@
-<img src="https://i.imgur.com/Xt4TDXF.jpg" height="50" width="100%" />
+<img src="assets/banner.jpg" height="50" width="100%" />
 
 
-## Hello, I am Thijmen 👋
+## Hello, my name is Thijmen 👋
 Attaining Full-Stack Software since 2014.
-
-
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=ThijmenGThN&count_private=true&show_icons=true&theme=tokyonight)
 
 
 <br />
@@ -15,8 +12,13 @@ Attaining Full-Stack Software since 2014.
   </a>
 
   <p align="center">
-    <a href="https://github.com/ThijmenGThN/Tealo/releases"><strong>Check out my latest project »</strong></a>
+    <a href="https://github.com/ThijmenGThN/Tealo"><strong>Check out my latest project »</strong></a>
   </p>
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThijmenGThN&layout=compact&theme=tokyonight&hide_border=true&hide_title=true">
 </p>
 
 
@@ -61,9 +63,6 @@ Attaining Full-Stack Software since 2014.
 
     
 ###### *Note, not all projects are listed here or are public.
-
-
-![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
 
 
 ### Wish to collaborate with me? 👏
