@@ -65,7 +65,7 @@
 <hr>
 <p>
 
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThijmenGThN&layout=compact&theme=nord&hide_border=true&hide_title=true&bg_color=263c45"> <img width="53.2%" src="https://github-readme-stats.vercel.app/api?username=ThijmenGThN&theme=nord&hide_border=true&hide_title=true&show_icons=true&bg_color=263c45">
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThijmenGThN&layout=compact&theme=nord&hide_border=true&hide_title=true&bg_color=263c45"> <img width="53.2%" src="https://github-readme-stats.vercel.app/api?username=ThijmenGThN&theme=nord&hide_border=true&hide_title=true&show_icons=true&bg_color=334852">
 
 </p>
 
