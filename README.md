@@ -5,24 +5,8 @@
 <hr>
 <p align="center">
 
-  <a style="margin-right: 15%" href="https://github.com/ThijmenGThN/ShareNet">
-    <img src="assets/repos/ShareNet.png" alt="ShareNet" width="60" height="60">
-  </a>
-
-  <a style="margin-right: 15%" href="https://github.com/ThijmenGThN/GOS">
-    <img src="assets/repos/GOS.png" alt="GOS" width="60" height="60">
-  </a>
-
   <a href="https://github.com/ThijmenGThN/Tealo">
-    <img src="assets/repos/Tealo.png" alt="Tealo" width="80" height="80">
-  </a>
-
-  <a style="margin-left: 15%" href="https://github.com/ThijmenGThN/AventusFactory">
-    <img src="assets/repos/AventusFactory.png" alt="AventusFactory" width="60" height="60">
-  </a>
-
-  <a style="margin-left: 15%" href="https://github.com/ThijmenGThN/EasyEco">
-    <img src="assets/repos/EasyEco.png" alt="EasyEco" width="55" height="55">
+    <img src="assets/repo_bar.png" alt="Tealo" width="50%">
   </a>
 
 
