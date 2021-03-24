@@ -11,6 +11,7 @@
     <a href="https://github.com/ThijmenGThN/Tealo"><strong>Check out my latest project »</strong></a>
   </p>
 </p>
+<hr>
 
 
 #### 🚀 This is what I am working on,
