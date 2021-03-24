@@ -1,5 +1,5 @@
 
-<img href="https://github.com/ThijmenGThN" src="assets/banner_large_compressed_animated.gif" width="100%" />
+<img href="https://github.com/ThijmenGThN" src="assets/banner_large_compressed.jpg" width="100%" />
 
 
 <hr>
