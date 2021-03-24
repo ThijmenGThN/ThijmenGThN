@@ -14,7 +14,7 @@
 <hr>
 
 
-#### 🚀 This is what I am working on,
+### 🚀 This is what I am working on,
 
 <details><summary>Highlighted ✨</summary><p>
 
