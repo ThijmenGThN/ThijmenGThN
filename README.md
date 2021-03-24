@@ -1,14 +1,10 @@
-<img src="assets/banner.jpg" height="50" width="100%" />
+<img src="assets/banner_large_compressed.jpg" width="100%" />
 
 
-## Hello, my name is Thijmen 👋
-Attaining Full-Stack Software since 2014.
-
-
-<br />
+<hr>
 <p align="center">
   <a href="https://github.com/ThijmenGThN/Tealo">
-    <img src="https://github.com/ThijmenGThN/Tealo/blob/main/assets/logo.png" alt="Tealo" width="80" height="80">
+    <img src="assets/repos/tealo.png" alt="Tealo" width="80" height="80">
   </a>
 
   <p align="center">
@@ -17,14 +13,9 @@ Attaining Full-Stack Software since 2014.
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThijmenGThN&layout=compact&theme=tokyonight&hide_border=true&hide_title=true">
-</p>
+#### 🚀 This is what I am working on,
 
-
-#### This is what I am working on,
-
-<details><summary>Highlighted</summary><p>
+<details><summary>Highlighted ✨</summary><p>
 
   * [Tealo](https://github.com/ThijmenGThN/Tealo)
   * [FactionBotPlus](https://github.com/PhoenixDigitalStudio/FactionBotPlus)
@@ -32,7 +23,7 @@ Attaining Full-Stack Software since 2014.
 </p></details>
 
 
-<details><summary>Personal</summary><p>
+<details><summary>Personal 💫</summary><p>
 
   * [Tealo](https://github.com/ThijmenGThN/Tealo)
   * [ShareNet](https://github.com/ThijmenGThN/ShareNet)
@@ -44,7 +35,7 @@ Attaining Full-Stack Software since 2014.
 </p></details>
   
 
-<details><summary>Clients</summary><p>
+<details><summary>Clients 🪐</summary><p>
 
   * Barry
     * [EasyEco](https://github.com/ThijmenGThN/EasyEco)
@@ -68,3 +59,11 @@ Attaining Full-Stack Software since 2014.
 ### Wish to collaborate with me? 👏
 - Discord @ ThijmenGThN#2684
 - Email @ ThijmenHeuvelink.GThN@pm.me
+
+
+<p>
+
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThijmenGThN&layout=compact&theme=nord&hide_border=true&hide_title=true&bg_color=3e5e6b"> <img width="53.2%" src="https://github-readme-stats.vercel.app/api?username=ThijmenGThN&theme=nord&hide_border=true&hide_title=true&show_icons=true&bg_color=3e5e6b">
+
+</p>
+
