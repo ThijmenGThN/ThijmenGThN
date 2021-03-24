@@ -1,5 +1,5 @@
 
-<img src="assets/banner_large_compressed.jpg" width="100%" />
+<img href="https://github.com/ThijmenGThN" src="assets/banner_large_compressed.jpg" width="100%" />
 
 
 <hr>
@@ -68,7 +68,7 @@
 <hr>
 <p>
 
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThijmenGThN&layout=compact&theme=nord&hide_border=true&hide_title=true&bg_color=0,2A3554,355B72,467281"> <img width="53.2%" src="https://github-readme-stats.vercel.app/api?username=ThijmenGThN&theme=nord&hide_border=true&hide_title=true&show_icons=true&bg_color=0,467281,355B72,2A3554">
-  <img src="assets/banner_small.jpg" width="100%" />
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThijmenGThN&layout=compact&theme=nord&hide_border=true&hide_title=true&bg_color=0,2A3554,355B72,467281" href="https://github.com/ThijmenGThN"> <img width="53.2%" src="https://github-readme-stats.vercel.app/api?username=ThijmenGThN&theme=nord&hide_border=true&hide_title=true&show_icons=true&bg_color=0,467281,355B72,2A3554" href="https://github.com/ThijmenGThN">
+  <img src="assets/banner_small.jpg" width="100%" href="https://github.com/ThijmenGThN" />
 
 </p>
