@@ -22,7 +22,7 @@
 <details><summary>Highlighted ✨</summary><p>
 
   * [Tealo](https://github.com/ThijmenGThN/Tealo)
-  * [FactionBotPlus](https://github.com/PhoenixDigitalStudio/FactionBotPlus)
+  * [Clout](https://github.com/ThijmenGThN/Clout)
   
 </p></details>
 
@@ -51,8 +51,6 @@
     * [US.FRS](https://github.com/ThijmenGThN/US.FRS)
     * [US.FEC](https://github.com/ThijmenGThN/US.FEC)
     * [PSE](https://github.com/ThijmenGThN/PSE)
-  * DayZ n' Chill
-    * [FactionBotPlus](https://github.com/PhoenixDigitalStudio/FactionBotPlus)
   
 </p></details>
 
