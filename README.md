@@ -22,7 +22,7 @@
 <details><summary>Highlighted ✨</summary><p>
 
   * [Tealo](https://github.com/ThijmenGThN/Tealo)
-  * [Clout](https://github.com/ThijmenGThN/Clout)
+  * [ShareNet](https://github.com/ThijmenGThN/ShareNet)
   
 </p></details>
 
