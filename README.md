@@ -59,8 +59,8 @@
 
 
 ### Wish to collaborate with me? 👏
-- Discord @ <a href="https://imgur.com/a/uqtWCmX">ThijmenGThN#2684</a>
-- Email @ ThijmenHeuvelink.GThN@pm.me
+- ThijmenGThN#2684
+- mail@thijmenheuvelink.nl
 
 
 <hr>
