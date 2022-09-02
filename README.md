@@ -3,12 +3,12 @@
 <hr>
 <p align="center">
 
-  <a href="https://github.com/ThijmenGThN/netode">
+  <a href="https://github.com/ThijmenGThN/NextCMS">
     <img src="assets/repo_bar.png" alt="Asset: My Repos" width="50%">
   </a>
 
   <p align="center">
-    <a href="https://github.com/ThijmenGThN/netode"><strong>Check out my latest project »</strong></a>
+    <a href="https://github.com/ThijmenGThN/NextCMS"><strong>Check out my latest project »</strong></a>
   </p>
 
 </p>
