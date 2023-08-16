@@ -8,7 +8,7 @@
   </a>
 
   <p align="center">
-    <a href="https://github.com/ThijmenGThN/NextCMS"><strong>Check out my latest project »</strong></a>
+    <a href="https://github.com/ThijmenGThN/next-leaflet"><strong>Check out my latest project »</strong></a>
   </p>
 
 </p>
