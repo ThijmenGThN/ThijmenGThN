@@ -1,4 +1,4 @@
-<img href="https://share.thijmenheuvelink.nl/api/shares/IzMzYwN/files/3329e22f-a72f-4acc-98f2-ce0e8b7e94bc" width="100%" />
+<img href="https://github.com/ThijmenGThN" src="assets/banner_large_compressed_animated.gif" width="100%" />
 
 <hr>
 <p align="center">
