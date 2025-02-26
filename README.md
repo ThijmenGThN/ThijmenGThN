@@ -29,14 +29,18 @@
 
 <br />
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThijmenGThN&layout=compact&theme=ambient_gradient&hide_border=true&hide_title=true&bg_color=072d34,04181b,000,000" href="https://github.com/ThijmenGThN">
-<img width="54%" src="https://github-readme-stats.vercel.app/api?username=ThijmenGThN&theme=ambient_gradient&hide_border=true&hide_title=true&show_icons=true&bg_color=072d34,04181b,000,000" href="https://github.com/ThijmenGThN">
+<div align="center">
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThijmenGThN&layout=compact&theme=ambient_gradient&hide_border=true&hide_title=true&bg_color=072d34,04181b,000,000" href="https://github.com/ThijmenGThN">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=ThijmenGThN&theme=ambient_gradient&hide_border=true&hide_title=true&show_icons=true&bg_color=072d34,04181b,000,000" href="https://github.com/ThijmenGThN">
+</div>
 
 <hr>
 <br />
 
-<img href="https://github.com/UpAlert" src="assets/upalert.png" width="29%" />
-<img href="https://github.com/NantricLabs" src="assets/nantric.png" width="37%" />
-<img href="https://github.com/dreamprintnl" src="assets/dreamprint.png" width="29%" />
+<div align="center">
+  <img href="https://github.com/UpAlert" src="assets/upalert.png" width="30%" />
+  <img href="https://github.com/NantricLabs" src="assets/nantric.png" width="38%" />
+  <img href="https://github.com/dreamprintnl" src="assets/dreamprint.png" width="30%" />
+</div>
 
 <img src="assets/footer.png" width="100%" href="https://github.com/ThijmenGThN" />
