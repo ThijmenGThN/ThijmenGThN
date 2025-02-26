@@ -37,9 +37,16 @@
 <hr>
 
 <div align="center">
-  <img href="https://github.com/UpAlert" src="assets/upalert.png" width="30%" />
-  <img href="https://github.com/NantricLabs" src="assets/nantric.png" width="38%" />
-  <img href="https://github.com/dreamprintnl" src="assets/dreamprint.png" width="30%" />
+  <a href="https://github.com/UpAlert">
+    <img src="assets/upalert.png" width="30%" />
+  </a>
+  <a href="https://github.com/NantricLabs">
+    <img src="assets/nantric.png" width="38%" />
+  </a>
+  <a href="https://github.com/dreamprintnl">
+    <img src="assets/dreamprint.png" width="30%" />
+  </a>
+</div>
 </div>
 
 <img src="assets/footer.png" width="100%" href="https://github.com/ThijmenGThN" />
