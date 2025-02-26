@@ -1,7 +1,6 @@
 
 <img href="https://github.com/ThijmenGThN" src="assets/header.png" width="100%" />
 
-<br />
 <div align="center">
 
 <!-- https://github.com/progfay/shields-with-icon/blob/master/README.md?plain=1 -->
@@ -13,7 +12,6 @@
 </div>
 
 <hr>
-<br />
 
 <div align="center">
   <a href="https://wiki.thijmenheuvelink.nl">
@@ -31,15 +29,14 @@
 
 <br />
 
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThijmenGThN&layout=compact&theme=ambient_gradient&hide_border=true&hide_title=true&bg_color=072d34,04181b,000,000" href="https://github.com/ThijmenGThN">
-<img width="55%" src="https://github-readme-stats.vercel.app/api?username=ThijmenGThN&theme=ambient_gradient&hide_border=true&hide_title=true&show_icons=true&bg_color=072d34,04181b,000,000" href="https://github.com/ThijmenGThN">
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThijmenGThN&layout=compact&theme=ambient_gradient&hide_border=true&hide_title=true&bg_color=072d34,04181b,000,000" href="https://github.com/ThijmenGThN">
+<img width="54%" src="https://github-readme-stats.vercel.app/api?username=ThijmenGThN&theme=ambient_gradient&hide_border=true&hide_title=true&show_icons=true&bg_color=072d34,04181b,000,000" href="https://github.com/ThijmenGThN">
 
-<br />
 <hr>
 <br />
 
-<img href="https://github.com/ThijmenGThN" src="assets/upalert.png" width="30%" />
-<img href="https://github.com/ThijmenGThN" src="assets/nantric.png" width="38%" />
-<img href="https://github.com/ThijmenGThN" src="assets/dreamprint.png" width="30%" />
+<img href="https://github.com/UpAlert" src="assets/upalert.png" width="29%" />
+<img href="https://github.com/NantricLabs" src="assets/nantric.png" width="37%" />
+<img href="https://github.com/dreamprintnl" src="assets/dreamprint.png" width="29%" />
 
 <img src="assets/footer.png" width="100%" href="https://github.com/ThijmenGThN" />
