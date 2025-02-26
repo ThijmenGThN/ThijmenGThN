@@ -35,7 +35,6 @@
 </div>
 
 <hr>
-<br />
 
 <div align="center">
   <img href="https://github.com/UpAlert" src="assets/upalert.png" width="30%" />
