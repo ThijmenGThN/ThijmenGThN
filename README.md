@@ -13,7 +13,7 @@
 
 </div>
 
-<br/><br/><hr><br/>
+<br/><br/>
 
 <div align="center">
   <a href="https://wiki.thijmenheuvelink.nl">
@@ -29,14 +29,7 @@
   </a>
 </div>
 
-<br/>
-
-<div align="center">
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThijmenGThN&layout=compact&theme=ambient_gradient&hide_border=true&hide_title=true&bg_color=031215,020d10,01090a,010405">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=ThijmenGThN&theme=ambient_gradient&hide_border=true&hide_title=true&show_icons=true&bg_color=031215,020d10,01090a,010405">
-</div>
-
-<br/><hr><br/><br/>
+<hr>
 
 <div align="center">
   <a href="https://github.com/UpAlert">
@@ -52,3 +45,8 @@
 </div>
 
 <img src="assets/footer.png" width="100%" href="https://github.com/ThijmenGThN" />
+
+<div align="center">
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThijmenGThN&layout=compact&theme=ambient_gradient&hide_border=true&hide_title=true&bg_color=031215,020d10,01090a,010405">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=ThijmenGThN&theme=ambient_gradient&hide_border=true&hide_title=true&show_icons=true&bg_color=031215,020d10,01090a,010405">
+</div>
