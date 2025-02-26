@@ -5,6 +5,8 @@
   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=ThijmenGThN&theme=ambient_gradient&hide_border=true&hide_title=true&show_icons=true&bg_color=031215,020d10,01090a,010405">
 </div>
 
+<br/>
+
 <div align="center">
 
   <!-- https://github.com/progfay/shields-with-icon/blob/master/README.md?plain=1 -->
