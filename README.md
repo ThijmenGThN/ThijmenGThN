@@ -21,7 +21,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://nantric.com">
-    <strong>Visit Nantric</strong>
+    <strong>Visit ∠ Nantric</strong>
   </a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ThijmenGThN?tab=repositories">
