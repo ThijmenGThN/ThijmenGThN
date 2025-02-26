@@ -30,8 +30,8 @@
 <br />
 
 <div align="center">
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThijmenGThN&layout=compact&theme=ambient_gradient&hide_border=true&hide_title=true&bg_color=072d34,04181b,000,000" href="https://github.com/ThijmenGThN">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=ThijmenGThN&theme=ambient_gradient&hide_border=true&hide_title=true&show_icons=true&bg_color=072d34,04181b,000,000" href="https://github.com/ThijmenGThN">
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThijmenGThN&layout=compact&theme=ambient_gradient&hide_border=true&hide_title=true&bg_color=072d34,04181b,04181b,000" href="https://github.com/ThijmenGThN">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=ThijmenGThN&theme=ambient_gradient&hide_border=true&hide_title=true&show_icons=true&bg_color=072d34,04181b,04181b,000" href="https://github.com/ThijmenGThN">
 </div>
 
 <hr>
