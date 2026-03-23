@@ -19,7 +19,7 @@
 
   <hr><br/>
 
-  <a href="https://wiki.thijmenheuvelink.nl">
+  <a href="https://wiki.nantric.com">
     <strong>Open my wiki</strong>
   </a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
