@@ -1,5 +1,5 @@
 
-<img src="assets/header.png" width="100%" />
+<img src="assets/Header.svg" width="100%" />
 <div align="center">
   <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThijmenGThN&layout=compact&theme=ambient_gradient&hide_border=true&hide_title=true&bg_color=000">
   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=ThijmenGThN&theme=ambient_gradient&hide_border=true&hide_title=true&show_icons=true&bg_color=000">
@@ -37,15 +37,15 @@
 
 <div align="center">
   <a href="https://github.com/UpAlert">
-    <img src="assets/upalert.png" width="30%" />
+    <img src="assets/UpAlert.svg" width="30%" />
   </a>
   <a href="https://github.com/NantricLabs">
-    <img src="assets/nantric.png" width="38%" />
+    <img src="assets/Nantric.svg" width="38%" />
   </a>
   <a href="https://github.com/dreamprintnl">
-    <img src="assets/dreamprint.png" width="30%" />
+    <img src="assets/Printplein.svg" width="30%" />
   </a>
 </div>
 </div>
 
-<img src="assets/footer.png" width="100%" href="https://github.com/ThijmenGThN" />
+<img src="assets/Footer.svg" width="100%" href="https://github.com/ThijmenGThN" />
