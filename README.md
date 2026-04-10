@@ -31,7 +31,7 @@
   <a href="https://nantric.com">
     <img src="assets/Nantric.svg" width="38%" />
   </a>
-  <a href="https://nantric.com">
+  <a href="https://github.com/dreamprintnl">
     <img src="assets/Printplein.svg" width="30%" />
   </a>
 </div>
