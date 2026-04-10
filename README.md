@@ -3,13 +3,13 @@
 </a>
 <br/>
 <div align="center">
-  ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=TypeScript&logoColor=FFF)
-  ![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=Rust&logoColor=FFF)
-  ![Go](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=Go&logoColor=FFF)
-  ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=Next.js&logoColor=FFF)
-  ![Proxmox](https://img.shields.io/badge/Proxmox-000?style=for-the-badge&logo=Proxmox&logoColor=FFF)
-  ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=Docker&logoColor=FFF)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=Tailwind+CSS&logoColor=fff)
+  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=TypeScript&logoColor=FFF" />
+  <img src="https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=Rust&logoColor=FFF" />
+  <img src="https://img.shields.io/badge/Go-000?style=for-the-badge&logo=Go&logoColor=FFF" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=Next.js&logoColor=FFF" />
+  <img src="https://img.shields.io/badge/Proxmox-000?style=for-the-badge&logo=Proxmox&logoColor=FFF" />
+  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=Docker&logoColor=FFF" />
+  <img src="https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=Tailwind+CSS&logoColor=fff" />
   <hr><br/>
   <a href="https://wiki.nantric.com">
     <strong>Open my wiki</strong>
